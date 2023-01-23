@@ -7,3 +7,4 @@ useradd
 userdel
 adduser
 usermod
+rm
